@@ -10,8 +10,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/zhiqiangxu/util/logger"
-	"github.com/zhiqiangxu/util/mapped"
+	"github.com/yrpc/util/logger"
+	"github.com/yrpc/util/mapped"
 	"go.uber.org/zap"
 )
 

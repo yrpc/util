@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync/atomic"
 
-	"github.com/zhiqiangxu/rpheap"
+	"github.com/yrpc/rpheap"
 )
 
 type wait struct {

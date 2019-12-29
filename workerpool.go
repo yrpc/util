@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/zhiqiangxu/util/logger"
+	"github.com/yrpc/util/logger"
 	"go.uber.org/zap"
 )
 

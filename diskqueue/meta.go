@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/zhiqiangxu/util"
-	"github.com/zhiqiangxu/util/logger"
-	"github.com/zhiqiangxu/util/mapped"
+	"github.com/yrpc/util"
+	"github.com/yrpc/util/logger"
+	"github.com/yrpc/util/mapped"
 	"go.uber.org/zap"
 )
 

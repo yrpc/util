@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/zhiqiangxu/util"
-	"github.com/zhiqiangxu/util/logger"
+	"github.com/yrpc/util"
+	"github.com/yrpc/util/logger"
 	"go.uber.org/zap"
 )
 
